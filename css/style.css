@@ -1,0 +1,215 @@
+body {
+        background-image: url(../IMG/nigga.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+
+#menu ul {
+    list-style:none;
+    margin: o;
+    padding: o;
+    justify-content: center;
+    display: flex;
+
+}
+
+#menu ul li{
+
+float:left;
+}
+
+#menu a {
+    color:rgb(255,255,255,1);
+    text-decoration: none;
+    display: block;
+    padding: 12px 26px;
+    font-size: 21px;
+}
+
+#menu {
+    background-color: rgba(86, 86, 88, 0.979);
+    width: 1700px;
+    height: 52px;
+}
+
+#menu a:hover{
+    color: rgb(88, 86, 86);
+    background: rgba(112, 90, 62, 0.705);
+    animation: 1s ms 1;
+
+}
+
+@keyframes ms{
+    0%{
+        opacity:0;
+        transform: scale(1.6);
+    }
+}
+
+.main{
+    position: relative;
+    z-index: 2;
+    margin: 60px;
+    padding: 50px;
+    background-color: rgba(117, 117, 117, 0.692);
+
+
+}
+.logo{
+    border-radius: 100%;
+}
+
+.logo1{
+
+    width:130px;
+    margin-top: 15px;
+    border-radius: 110%;
+}
+
+.logo2{
+
+    width:155px;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+
+.logo3{
+
+    width:130px;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+
+.logo4{
+
+    width:130px;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+.logo5{
+
+    width:130px;
+    margin-top: 120px;
+    border-radius: 100%;
+}
+
+.logo6{
+    list-style:none;
+    width:140px;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+
+.logo7{
+    list-style:none;
+    width:140px;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+
+.logo8{
+    list-style:none;
+    width:140px;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+.logo9{
+    list-style:none;
+    width:160px;
+    margin-top: 21px;
+    border-radius: 100%;
+}
+
+.logo10{
+    list-style:none;
+    width:160px;
+    margin-top: 21px;
+    border-radius: 120%;
+}
+
+
+
+.logo11{
+    list-style:none;
+    width:160px;
+    margin-right: 100px;
+    border-radius: 120%;
+}
+
+.logo12{
+    list-style:none;
+    width:160px;
+    margin-right: 10px;
+    border-radius: 120%;
+}
+
+.logo13{
+    list-style:none;
+    width:160px;
+    margin-right: 10px;
+    border-radius: 160%;
+}
+
+
+.perros{
+    columns: 3;
+    column-gap: 20px;
+}
+
+.pp{
+    break-inside: avoid-column;
+}
+
+.cosas{
+    columns: 3;
+    column-gap: 20px; 
+}
+
+.avet{
+    break-inside: avoid-column;
+}
+
+.man{
+    columns: 3;
+    column-gap: 20px;
+}
+
+.sub{
+    break-inside: avoid-column;
+}
+
+.fam{
+    columns: 6;
+    column-gap: 30px; 
+}
+
+.lan{
+    list-style: none;
+    width: 400px;
+    background-color: silver;
+    padding: 30px;
+    margin:auto;
+    margin-top: 100px;
+    border-radius: 4px;
+
+}
+
+.lan h3{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.forms{
+    width: 100%;
+    background: slategray;
+    margin-bottom: 12px;
+}
+
+
+
